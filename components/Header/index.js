@@ -29,5 +29,6 @@ function Header() {
 
      return divHead;
 }
+
 const headerContainer = document.querySelector('.header-container');
 headerContainer.appendChild(Header());
